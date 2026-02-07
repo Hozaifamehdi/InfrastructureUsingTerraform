@@ -112,7 +112,7 @@ Azure Infrastructure using IaC technology using terraform
 <b>for resource naming convenstion I have attached .docx file.</b>
 
 
-<p><b>Define your tagging requirements</b></p>
+<h2>Define your tagging requirements</h2>
 
 <ol>
 <li>A clear tagging strategy ensures your resources align with business goals and operational needs. Resource tags provide the foundation for cost management, governance, and automation across your Azure environment. You must assess your specific requirements to create effective tagging standards.</li>
