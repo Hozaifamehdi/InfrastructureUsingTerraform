@@ -110,3 +110,22 @@ Azure Infrastructure using IaC technology using terraform
   </table>
 
 <b>for resource naming convenstion I have attached .docx file.</b>
+
+
+<li>
+<p><b>Define your tagging requirements</b></p>
+<ol>A clear tagging strategy ensures your resources align with business goals and operational needs. Resource tags provide the foundation for cost management, governance, and automation across your Azure environment. You must assess your specific requirements to create effective tagging standards.</ol>
+
+<ol>
+Evaluate existing policies. Your Azure tagging approach must align with current organizational standards to maintain consistency. Inconsistent tagging creates confusion and reduces the effectiveness of resource management. To ensure your Azure tags complement these established practices, review your company's existing naming conventions and governance policies.</ol>
+
+<ol>
+Determine cost allocation needs. Tags support detailed cost tracking for chargeback or showback reporting across departments and business units. Identify whether you need granular cost allocation beyond the subscription level to support accurate billing and budget management. For more information, see Group and allocate costs using tag inheritance.</ol>
+
+<ol>
+Identify operational and compliance requirements. Resource tags capture critical operational metadata that supports automation and compliance reporting. Different resources require different operational details such as backup schedules, security classifications, or regulatory compliance status. Define which operational and compliance details your tags must track to support your requirements.</ol>
+
+<ol>
+Establish governance boundaries. Clear governance defines which tags are mandatory and which remain optional across your organization. Centralized IT policies typically enforce core tags while allowing teams flexibility for custom requirements. Determine your mandatory tag requirements and establish guidelines for optional tags to balance governance with team autonomy.
+</ol>
+</li>
